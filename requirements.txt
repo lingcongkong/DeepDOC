@@ -1,0 +1,9 @@
+pytorch==1.8.1
+torchvision==0.11.2
+sklearn==1.0.2
+matplotlib==3.5.2
+nibabel==4.0.1
+nilearn==0.9.1
+shap==0.41.0
+opencv-python==4.5.3
+pandas==1.1.5
