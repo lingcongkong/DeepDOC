@@ -1,8 +1,8 @@
-# Two-stage deep learning framework enables accurate diagnosis of disorders of consciousness from resting state fMRI images
+# DeepDOC: a two-stage deep learning framework for discriminating minimally conscious state from unresponsive patients
 ![Framework](https://github.com/lingcongkong/DeepDOC/blob/main/Fig1_Framework.png)
 ## Introduction
 The implementation of: <br>
-[**Two-stage deep learning framework enables accurate diagnosis of disorders of consciousness from resting state fMRI images**](https://www.nature.com/articles/)
+[**DeepDOC: a two-stage deep learning framework for discriminating minimally conscious state from unresponsive patients**](https://www.nature.com/articles/)
 ## Requirements
 - python 3.9
 - pytorch 1.8.1
@@ -21,7 +21,7 @@ The implementation of: <br>
 Clone the repo and install required packages:
 ```
 git clone https://github.com/lingcongkong/DeepDOC.git
-cd HoVerTrans
+cd DeepDOC
 pip install -r requirements.txt
 ```
 
@@ -32,4 +32,4 @@ python train.py --data_path ./data/ --batch_size 32 --class_num 2 --epochs 250 -
 ## Citation
 If you find this repository useful or use our dataset, please consider citing our work:
 
-```Two-stage deep learning framework enables accurate diagnosis of disorders of consciousness from resting state fMRI images```
+```DeepDOC: a two-stage deep learning framework for discriminating minimally conscious state from unresponsive patients```
