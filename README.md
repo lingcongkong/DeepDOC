@@ -30,6 +30,6 @@ pip install -r requirements.txt
 python train.py --data_path ./data/ --batch_size 32 --class_num 2 --epochs 250 --lr 0.0001 
 ```
 ## Citation
-If you find this repository useful or use our dataset, please consider citing our work:
+If you find this repository useful or use our dataset, please consider citing our work after publishment:
 
 ```DeepDOC: a two-stage deep learning framework for discriminating minimally conscious state from unresponsive patients```
