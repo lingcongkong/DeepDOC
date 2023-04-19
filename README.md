@@ -29,7 +29,7 @@ Below are the main directories in the repository:
 
 - `Model_training/`: the model structure and train/validation loop
 - `Gradcam_visualization/`: visualization the gradcam result of trained models on surface/MNI space
-- `Shap`: implementation of machine learning models and shap value calculation
+- `Shap/`: implementation of machine learning models and shap value calculation
 
 ### Training
 ```
