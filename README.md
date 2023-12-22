@@ -1,5 +1,5 @@
-# DeepDOC: a two-stage deep learning framework for discriminating minimally conscious state from unresponsive patients
-![Framework](https://github.com/lingcongkong/DeepDOC/blob/main/workflow_DeepDOC_wu_00.png)
+# Precise Detection of Awareness in Disorders of Consciousness Using Deep Learning Framework
+![Framework](https://github.com/lingcongkong/DeepDOC/blob/main/Fig1.tif)
 ## Introduction
 The implementation of: <br>
 [**DeepDOC: a two-stage deep learning framework for discriminating minimally conscious state from unresponsive patients**](https://www.nature.com/articles/)
