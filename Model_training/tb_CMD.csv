@@ -1,0 +1,11 @@
+,sub_id,behavior,BCI,BCI_acc,type,file
+0,11,VS,1.0,0.66,0,/share/home/konglingcong/vegi/doc_data/cmd/cp/p11_func.nii
+1,16,VS,1.0,0.72,0,/share/home/konglingcong/vegi/doc_data/cmd/cp/p16_func.nii
+2,18,VS,0.0,0.52,1,/share/home/konglingcong/vegi/doc_data/cmd/cp/p18_func.nii
+4,23,VS,0.0,0.52,1,/share/home/konglingcong/vegi/doc_data/cmd/cp/p23_func.nii
+5,39,VS,1.0,0.66,0,/share/home/konglingcong/vegi/doc_data/cmd/cp/p39_func.nii
+6,36,VS,0.0,0.52,1,/share/home/konglingcong/vegi/doc_data/cmd/cp/p36_func.nii
+7,40,MCS-,0.0,0.6,0,/share/home/konglingcong/vegi/doc_data/cmd/cp/p40_func.nii
+8,9,VS,0.0,0.62,1,/share/home/konglingcong/vegi/doc_data/cmd/cp/p09_func.nii
+10,43,MCS,0.0,0.58,1,/share/home/konglingcong/vegi/doc_data/cmd/cp/p43_func.nii
+11,P19,,,,1,/share/home/konglingcong/vegi/doc_data/cmd/preprocessed/niftiDATA_Subject019_Condition000.nii
