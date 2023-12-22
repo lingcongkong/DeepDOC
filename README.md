@@ -11,7 +11,6 @@ The implementation of: <br>
 - matplotlib 3.5.2
 - nibabel 4.0.1
 - nilearn 0.9.1
-- shap 0.41.0
 - opencv-python 4.5.3
 - pandas 1.1.5
 
@@ -33,11 +32,11 @@ Below are the main directories in the repository:
 
 ### Training
 ```
-python Model_training/train.py --stage 1 --data_path ./data/ --batch_size 32 --class_num 2 --epochs 250 --lr 0.0001 
+python Model_training/train.py 
 ```
 
 
 ## Citation
 If you find this repository useful or use our dataset, please consider citing our work after publishment:
 
-```DeepDOC: a two-stage deep learning framework for discriminating minimally conscious state from unresponsive patients```
+```Precise Detection of Awareness in Disorders of Consciousness Using Deep Learning Framework```
