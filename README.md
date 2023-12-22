@@ -1,8 +1,8 @@
 # Precise Detection of Awareness in Disorders of Consciousness Using Deep Learning Framework
-![Framework](https://github.com/lingcongkong/DeepDOC/blob/main/Fig1.tif)
+![Framework](https://github.com/lingcongkong/DeepDOC/blob/main/Fig1.jpeg)
 ## Introduction
 The implementation of: <br>
-[**DeepDOC: a two-stage deep learning framework for discriminating minimally conscious state from unresponsive patients**](https://www.nature.com/articles/)
+[**Precise Detection of Awareness in Disorders of Consciousness Using Deep Learning Framework**](https://www.nature.com/articles/)
 ## Requirements
 - python 3.9
 - pytorch 1.8.1
